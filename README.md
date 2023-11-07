@@ -2,28 +2,31 @@
 
 
 **Project Objective:**
+
 Vrinda Store wants to create an annual sales report for 2022 so that the store can understand its marketing strategy and grow more sales in 2023.
 
 
 **Questions:**
-Comapre the sales and orders using single chart
 
-Which month got the highest sales and orders
+1.Comapre the sales and orders using single chart
 
-Who purchased more men or women in 2022
+2.Which month got the highest sales and orders
 
-What are different order status in 2022
+3.Who purchased more men or women in 2022
 
-List top 10 states contributing to the sales
+4.What are different order status in 2022
 
-Relation between age and gender based on number
+5.List top 10 states contributing to the sales
 
-Which channel is contributing to maximum sales
+6.Relation between age and gender based on number
 
-Highest selling category
+7.Which channel is contributing to maximum sales
+
+8.Highest selling category
 
 
 **Analysis:**
+
 1.First step was to understand the Data and business problem
 
 2.Carried out data cleaning by removing duplicates,null values and other irregularities in data & created a coloum of Age group for ease of analysis
@@ -34,10 +37,12 @@ Highest selling category
 
 
 **SnapShot of Dashboard**
+
 ![image](https://github.com/Shreyashkabade/Data-Analytics-Projects-/assets/146985939/565781d9-76fa-42e2-a166-8858fef4c6bb)
 
 
 **Insights:**
+
 1.The highest sales was in the month of march
 
 2.The targent sengment should be Adult Women, who contributes to the 50% (aprox) of the total Sales
@@ -50,4 +55,5 @@ Highest selling category
 
 
 **Final Conclusion:**
+
 To improve sales of Vrinda Store, women customers of the age group (20-50 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
